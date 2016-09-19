@@ -1,4 +1,7 @@
 
-img[alt=screenshot] { width: 70%; }
+img[alt=screenshot] {
+  page-break-after: always;
+  width: 70%;
+}
 
 .pagebreak { page-break-after: always; }
