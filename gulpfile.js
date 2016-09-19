@@ -4,6 +4,8 @@ const markdownPdf = require('gulp-markdown-pdf')
 
 gulp.task('default', function () {
   return gulp.src('./content.md')
-    .pipe(markdownPdf())
+    .pipe(markdownPdf({
+      cssPath: './print.css'
+    }))
     .pipe(gulp.dest('.'))
 })
