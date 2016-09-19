@@ -14,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/juriejan/yai-kandu-manual/issues"
   },
-  "homepage": "https://github.com/juriejan/yai-kandu-manual#readme"
+  "homepage": "https://github.com/juriejan/yai-kandu-manual#readme",
+  "devDependencies": {
+    "gulp": "git://github.com/gulpjs/gulp.git#4.0",
+    "gulp-markdown-pdf": "^4.0.0"
+  }
 }
