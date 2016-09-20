@@ -1,7 +1,7 @@
 
 const gulp = require('gulp')
+const del = require('del')
 
-const clean = require('gulp-clean')
 const jimp = require('gulp-jimp')
 const liveServer = require('gulp-live-server')
 const markdown = require('gulp-markdown')
@@ -18,7 +18,7 @@ const paths = {
 }
 
 function cleanImages () {
-  return gulp.src(`${paths.images}/**/*.png`).pipe(clean())
+  return del(`${paths.images}/**/*.png`)
 }
 
 function formatImages () {
@@ -28,7 +28,7 @@ function formatImages () {
 }
 
 function cleanRoot () {
-  return gulp.src(paths.www).pipe(clean())
+  return del(paths.www)
 }
 
 function linkImages () {

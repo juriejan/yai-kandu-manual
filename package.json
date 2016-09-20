@@ -16,8 +16,8 @@
   },
   "homepage": "https://github.com/juriejan/yai-kandu-manual#readme",
   "devDependencies": {
+    "del": "^2.2.2",
     "gulp": "git://github.com/gulpjs/gulp.git#4.0",
-    "gulp-clean": "^0.3.2",
     "gulp-jimp": "^1.2.7",
     "gulp-live-server": "0.0.30",
     "gulp-markdown": "^1.2.0",
