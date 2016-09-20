@@ -10,7 +10,6 @@ const rename = require('gulp-rename')
 const wrap = require('gulp-wrap')
 const s3 = require('gulp-s3')
 
-const awsConfig = require('./aws.json')
 
 const paths = {
   content: './content.md',
@@ -56,8 +55,8 @@ function serve (done) {
 }
 
 function publish () {
-  return gulp.src(`${paths.www}/**/*`)
-    .pipe(s3(awsConfig))
+  let config = require('./aws.json')
+  return gulp.src(`${paths.www}/**/*`).pipe(s3(config))
 }
 
 gulp.task('pdf', function () {
