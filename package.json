@@ -23,6 +23,7 @@
     "gulp-markdown": "^1.2.0",
     "gulp-markdown-pdf": "^4.0.0",
     "gulp-rename": "^1.2.2",
+    "gulp-s3": "^0.3.0",
     "gulp-wrap": "^0.13.0"
   }
 }

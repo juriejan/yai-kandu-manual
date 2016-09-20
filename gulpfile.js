@@ -8,6 +8,9 @@ const markdown = require('gulp-markdown')
 const markdownPdf = require('gulp-markdown-pdf')
 const rename = require('gulp-rename')
 const wrap = require('gulp-wrap')
+const s3 = require('gulp-s3')
+
+const awsConfig = require('./aws.json')
 
 const paths = {
   content: './content.md',
@@ -52,6 +55,11 @@ function serve (done) {
   done()
 }
 
+function publish () {
+  return gulp.src(`${paths.www}/**/*`)
+    .pipe(s3(awsConfig))
+}
+
 gulp.task('pdf', function () {
   return gulp.src(paths.content)
     .pipe(markdownPdf({cssPath: './print.css'}))
@@ -60,4 +68,5 @@ gulp.task('pdf', function () {
 
 gulp.task('format', gulp.series(formatImages, cleanImages))
 gulp.task('build', gulp.series(html, linkImages))
+gulp.task('publish', gulp.series('build', publish))
 gulp.task('default', gulp.series(cleanRoot, 'build', serve))
