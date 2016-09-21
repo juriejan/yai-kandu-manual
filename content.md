@@ -95,34 +95,42 @@
 
 ## 3. Registering a Member
 
-### 3.1 Start from map view seen in 2.6. Select menu top left of screen
-![screenshot](./images/3/1.jpg)
+### 3.1 Start from map view seen in 2.6. Select menu-icon on the top-left of screen
+![screenshot](./images/map.jpg)
 <div class="pagebreak"></div>
 
-### 3.2 Select Member registration from the dropdown menu
-![screenshot](./images/3/2.jpg)
+### 3.2 Select Member Registration from the dropdown menu
+![screenshot](./images/menu.jpg)
 <div class="pagebreak"></div>
 
-### 3.3 Fill in the members details
+### 3.3 Select Member Registration with the big plus sign from the Member Registration sub-menu
+![screenshot](./images/3/5.jpg)
+<div class="pagebreak"></div>
+
+### 3.4 Fill in the members details
 ![screenshot](./images/3/3.jpg)
 <div class="pagebreak"></div>
 
-### 3.4 If you have connectivity select "Save and submit" else select "Save only"
+### 3.5 If you have connectivity select "Save and submit" else select "Save only"
 ![screenshot](./images/3/4.jpg)
 <div class="pagebreak"></div>
 
-### 3.5 Member has been added
+### 3.6 Member has been added
 ![screenshot](./images/3/5.jpg)
 <div class="pagebreak"></div>
 
 
 ## 4. Registering a Garden
 
-### 4.1 Start from map view seen in 2.6. Select menu top left of screen
-![screenshot](./images/3/1.jpg)
+### 4.1 Start from map view seen in 2.6. Select menu-icon top left of screen
+![screenshot](./images/map.jpg)
 <div class="pagebreak"></div>
 
-### 4.2 Select Garden registration from the dropdown menu
+### 4.2 Select Garden Registration from the dropdown menu
+![screenshot](./images/menu.jpg)
+<div class="pagebreak"></div>
+
+### 4.3 Select Garden Registration with the big plus sign from the Garden Registration sub-menu
 ![screenshot](./images/4/1.jpg)
 <div class="pagebreak"></div>
 
