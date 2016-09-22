@@ -95,23 +95,23 @@
 
 ## 3. Registering a Member
 
-### 3.1 Start from map view seen in 2.6. Select menu-icon on the top-left of screen
+### 3.1 Start from map view(2.6.) and tap menu-icon at top-left of screen
 ![screenshot](./images/map.jpg)
 <div class="pagebreak"></div>
 
-### 3.2 Select Member Registration from the dropdown menu
+### 3.2 Select *"Member Registration"* from dropdown menu
 ![screenshot](./images/menu.jpg)
 <div class="pagebreak"></div>
 
-### 3.3 Select Member Registration with the big plus sign from the Member Registration sub-menu
+### 3.3 Select *"+Member Registration"* with the big plus sign from the *"Member Registration"* sub-menu
 ![screenshot](./images/3/5.jpg)
 <div class="pagebreak"></div>
 
-### 3.4 Fill in the members details
+### 3.4 Fill in the member details
 ![screenshot](./images/3/3.jpg)
 <div class="pagebreak"></div>
 
-### 3.5 If you have connectivity select "Save and submit" else select "Save only"
+### 3.5 If you have connectivity tap *"Save and submit"* else tap *"Save only"*
 ![screenshot](./images/3/4.jpg)
 <div class="pagebreak"></div>
 
@@ -122,23 +122,23 @@
 
 ## 4. Registering a Garden
 
-### 4.1 Start from map view seen in 2.6. Select menu-icon top left of screen
+### 4.1 Start from map view(2.6.) and tap menu-icon top left of screen
 ![screenshot](./images/map.jpg)
 <div class="pagebreak"></div>
 
-### 4.2 Select Garden Registration from the dropdown menu
+### 4.2 Select *"Garden Registration"* from the dropdown menu
 ![screenshot](./images/menu.jpg)
 <div class="pagebreak"></div>
 
-### 4.3 Select Garden Registration with the big plus sign from the Garden Registration sub-menu
+### 4.3 Select *"+Garden Registration"* with the big plus sign from the *"Garden Registration"* sub-menu
 ![screenshot](./images/4/1.jpg)
 <div class="pagebreak"></div>
 
-### 4.3 Fill in the Gardens details
+### 4.3 Fill in the Garden details
 ![screenshot](./images/4/2.jpg)
 <div class="pagebreak"></div>
 
-### 4.4 If you have connectivity select "Save and submit" else select "Save only"
+### 4.4 If you have connectivity tap *"Save and submit"* else tap *"Save only"*
 ![screenshot](./images/4/3.jpg)
 <div class="pagebreak"></div>
 
