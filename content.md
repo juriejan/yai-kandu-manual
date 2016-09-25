@@ -39,33 +39,21 @@
 ![screenshot](./images/home.jpg)
 <div class="pagebreak"></div>
 
-### 1.8 Find the Gmail application in the list and open it by tapping it's icon
+### 1.8 Find the *Chrome* application in the list and open it by tapping it's icon
 ![screenshot](./images/1/8.jpg)
 <div class="pagebreak"></div>
 
-### 1.9 Find the email containing the application and open it by tapping it
-![screenshot](./images/1/9.jpg)
-<div class="pagebreak"></div>
+### 1.9 Click [this link](/apks/kandu_2.0.17.apk) to download the application
 
 ### 1.10 Tap the application file attachment at the bottom of the email to begin downloading the application file and wait for the download to finish
-![screenshot](./images/1/10.jpg)
-<div class="pagebreak"></div>
 
 ### 1.11 Wait for the application file to finish downloading
-![screenshot](./images/1/11.jpg)
-<div class="pagebreak"></div>
 
 ### 1.12 Once the download has finished continue with the installation by tapping 'INSTALL'
-![screenshot](./images/1/12.jpg)
-<div class="pagebreak"></div>
 
 ### 1.13 Wait for the application installation to finish
-![screenshot](./images/1/13.jpg)
-<div class="pagebreak"></div>
 
 ### 1.14 A message should then display indicating that the application has successfully been installed
-![screenshot](./images/1/14.jpg)
-<div class="pagebreak"></div>
 
 ## 2. Logging In
 

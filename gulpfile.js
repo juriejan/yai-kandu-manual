@@ -13,15 +13,16 @@ const s3 = require('gulp-s3')
 
 const paths = {
   content: './content.md',
-  images: './images',
+  assets: './assets',
+  images: './assets/images',
   www: './www'
 }
 
-function cleanImages () {
+function cleanImages() {
   return del(`${paths.images}/**/*.png`)
 }
 
-function formatImages () {
+function formatImages() {
   return gulp.src(`${paths.images}/**/*.png`)
     .pipe(jimp({'': {
       type: 'jpg',
@@ -31,16 +32,16 @@ function formatImages () {
     .pipe(gulp.dest(paths.images))
 }
 
-function cleanRoot () {
+function cleanRoot() {
   return del(paths.www)
 }
 
-function linkImages () {
-  return gulp.src(`${paths.images}/**/*`)
-    .pipe(gulp.symlink(`${paths.www}/images`))
+function linkAssets() {
+  return gulp.src(`${paths.assets}/**/*`)
+    .pipe(gulp.symlink(paths.www))
 }
 
-function html () {
+function html() {
   return gulp.src(paths.content)
     .pipe(markdown())
     .pipe(rename('./index.html'))
@@ -48,7 +49,7 @@ function html () {
     .pipe(gulp.dest(paths.www))
 }
 
-function serve (done) {
+function serve(done) {
   let server = liveServer.static(paths.www)
   server.start()
   gulp.watch(paths.content, html)
@@ -58,7 +59,7 @@ function serve (done) {
   done()
 }
 
-function publish () {
+function publish() {
   let config = require('./aws.json')
   return gulp.src(`${paths.www}/**/*`).pipe(s3(config))
 }
@@ -70,6 +71,6 @@ gulp.task('pdf', function () {
 })
 
 gulp.task('format', gulp.series(formatImages, cleanImages))
-gulp.task('build', gulp.series(html, linkImages))
+gulp.task('build', gulp.series(html, linkAssets))
 gulp.task('publish', gulp.series('build', publish))
 gulp.task('default', gulp.series(cleanRoot, 'build', serve))
