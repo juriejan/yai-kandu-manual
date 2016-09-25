@@ -10,6 +10,11 @@ npm install
 gulp
 ```
 
+## Formatting PNGs to JPGs
+```
+gulp format
+```
+
 ## Publishing to AWS (requires aws.json)
 ```
 gulp publish
