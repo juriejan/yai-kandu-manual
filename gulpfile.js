@@ -23,8 +23,12 @@ function cleanImages () {
 
 function formatImages () {
   return gulp.src(`${paths.images}/**/*.png`)
-    .pipe(jimp({'': {type: 'jpg', quality: 80}}))
-    .pipe(gulp.dest('./images'))
+    .pipe(jimp({'': {
+      type: 'jpg',
+      quality: 80,
+      resize: {width: 600}
+    }}))
+    .pipe(gulp.dest(paths.images))
 }
 
 function cleanRoot () {
