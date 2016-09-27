@@ -164,6 +164,6 @@
 ![screenshot](./images/4/7.jpg)
 <div class="pagebreak"></div>
 
-#### 4.7.3 If no saved forms remains all forms have been submitted
+#### 4.7.3 If no saved forms remains all forms have been submitted,else try again when you have connectivity
 ![screenshot](./images/4/8.jpg)
 <div class="pagebreak"></div>
