@@ -83,4 +83,75 @@
 
 ## 3. Registering a Member
 
+### 3.1 Start from map view( 2.6 ) and tap menu-icon at top-left of screen
+![screenshot](./images/map.jpg)
+<div class="pagebreak"></div>
+
+### 3.2 Select *Member Registration* from dropdown menu
+![screenshot](./images/menu.jpg)
+<div class="pagebreak"></div>
+
+### 3.3 Select *Member Registration* with the big plus icon from the *Member Registration* sub-menu
+![screenshot](./images/3/5.jpg)
+<div class="pagebreak"></div>
+
+### 3.4 Fill in the member details
+![screenshot](./images/3/3.jpg)
+<div class="pagebreak"></div>
+
+### 3.5 If you have connectivity tap *Save and submit* else tap *Save only*
+![screenshot](./images/3/4.jpg)
+<div class="pagebreak"></div>
+
+### 3.6 Member has been added
+![screenshot](./images/3/5.jpg)
+<div class="pagebreak"></div>
+
+
 ## 4. Registering a Garden
+
+### 4.1 Start from map view( 2.6 ) and tap menu-icon top left of screen
+![screenshot](./images/map.jpg)
+<div class="pagebreak"></div>
+
+### 4.2 Select *Garden Registration* from the dropdown menu
+![screenshot](./images/menu.jpg)
+<div class="pagebreak"></div>
+
+### 4.3 Select *Garden Registration* with the big plus icon from the *Garden Registration* sub-menu
+![screenshot](./images/4/1.jpg)
+<div class="pagebreak"></div>
+
+### 4.3 Fill in the Garden details
+![screenshot](./images/4/2.jpg)
+<div class="pagebreak"></div>
+
+### 4.4 If you have connectivity tap *Save and submit* else tap *Save only*,this stores the member registration locally on your device( see 2.7 on how to submit locally stored member registration forms to Kandu database )
+![screenshot](./images/4/3.jpg)
+<div class="pagebreak"></div>
+
+### 4.5 If you see *server error* check connectivity,if no connection is available tap *save only*
+![screenshot](./images/4/4.jpg)
+<div class="pagebreak"></div>
+
+### 4.6 Garden has been added
+![screenshot](./images/4/5.jpg)
+<div class="pagebreak"></div>
+
+### 4.7 Submit a locally stored member registration form to Kandu database
+
+#### 4.7.1 Start from map view( 2.6 ) and tap menu-icon top right of screen
+![screenshot](./images/map.jpg)
+<div class="pagebreak"></div>
+
+#### 4.7.2 Tap *Saved forms*
+![screenshot](./images/4/6.jpg)
+<div class="pagebreak"></div>
+
+#### 4.7.3 Tap *Submit all*
+![screenshot](./images/4/7.jpg)
+<div class="pagebreak"></div>
+
+#### 4.7.3 If no saved forms remains all forms have been submitted,else try again when you have connectivity
+![screenshot](./images/4/8.jpg)
+<div class="pagebreak"></div>
