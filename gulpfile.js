@@ -2,13 +2,13 @@
 const gulp = require('gulp')
 const del = require('del')
 
+const awspublish = require('gulp-awspublish')
 const jimp = require('gulp-jimp')
 const liveServer = require('gulp-live-server')
 const markdown = require('gulp-markdown')
 const markdownPdf = require('gulp-markdown-pdf')
 const rename = require('gulp-rename')
 const wrap = require('gulp-wrap')
-const s3 = require('gulp-s3')
 
 
 const paths = {
@@ -61,7 +61,19 @@ function serve(done) {
 
 function publish() {
   let config = require('./aws.json')
-  return gulp.src(`${paths.www}/**/*`).pipe(s3(config))
+  let publisher = awspublish.create({
+    region: 'eu-west-1',
+    params: {
+      Bucket: 'yai.kandu.manual.juriejan.co'
+    },
+    accessKeyId: config.key,
+    secretAccessKey: config.secret
+  })
+  return gulp.src(`${paths.www}/**/*`, {follow: true})
+    .pipe(awspublish.gzip())
+    .pipe(publisher.publish())
+    .pipe(publisher.sync())
+    .pipe(awspublish.reporter())
 }
 
 gulp.task('pdf', function () {
