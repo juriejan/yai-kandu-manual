@@ -95,15 +95,15 @@
 
 ## 3. Registering a Member
 
-### 3.1 Start from map view(2.6.) and tap menu-icon at top-left of screen
+### 3.1 Start from map view( 2.6 ) and tap menu-icon at top-left of screen
 ![screenshot](./images/map.jpg)
 <div class="pagebreak"></div>
 
-### 3.2 Select *"Member Registration* from dropdown menu
+### 3.2 Select *Member Registration* from dropdown menu
 ![screenshot](./images/menu.jpg)
 <div class="pagebreak"></div>
 
-### 3.3 Select *"+Member Registration* with the big plus sign from the *"Member Registration* sub-menu
+### 3.3 Select *Member Registration* with the big plus icon from the *Member Registration* sub-menu
 ![screenshot](./images/3/5.jpg)
 <div class="pagebreak"></div>
 
@@ -111,7 +111,7 @@
 ![screenshot](./images/3/3.jpg)
 <div class="pagebreak"></div>
 
-### 3.5 If you have connectivity tap *"Save and submit* else tap *"Save only*
+### 3.5 If you have connectivity tap *Save and submit* else tap *Save only*
 ![screenshot](./images/3/4.jpg)
 <div class="pagebreak"></div>
 
@@ -130,7 +130,7 @@
 ![screenshot](./images/menu.jpg)
 <div class="pagebreak"></div>
 
-### 4.3 Select *+Garden Registration* with the big plus sign from the *Garden Registration* sub-menu
+### 4.3 Select *Garden Registration* with the big plus icon from the *Garden Registration* sub-menu
 ![screenshot](./images/4/1.jpg)
 <div class="pagebreak"></div>
 
