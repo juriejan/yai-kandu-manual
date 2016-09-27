@@ -138,11 +138,11 @@
 ![screenshot](./images/4/2.jpg)
 <div class="pagebreak"></div>
 
-### 4.4 If you have connectivity tap *Save and submit* else tap *Save only*,this stores the member registration locally on your device( see 2.7 on how to submit locally stored member registration to Kandu database )
+### 4.4 If you have connectivity tap *Save and submit* else tap *Save only*,this stores the member registration locally on your device( see 2.7 on how to submit locally stored member registration forms to Kandu database )
 ![screenshot](./images/4/3.jpg)
 <div class="pagebreak"></div>
 
-### 4.5 If you see *server error* check connectivity,if no connection is found tap *save only*
+### 4.5 If you see *server error* check connectivity,if no connection is available tap *save only*
 ![screenshot](./images/4/4.jpg)
 <div class="pagebreak"></div>
 
