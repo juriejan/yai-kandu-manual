@@ -2,11 +2,11 @@
 
 ## Table of contents
 
-1. Installation
-2. Logging In
-3. Using the menu to Navigate form data entry
-4. How to submit locally saved form data to the remote database
-5. Different type of data fields and their usage
+1. [Installation](#1-installation)
+2. [Logging In](#2-logging-in)
+3. [Using the menu to Navigate form data entry](#3-using-the-menu-to-navigate-form-data-entry)
+4. [How to submit locally saved form data to the remote database](#4-how-to-submit-locally-saved-form-data-to-the-remote-database)
+5. [Different type of data fields and their usage](#5-different-type-of-data-fields-and-their-usage)
 
 <div class="pagebreak"></div>
 
