@@ -9,6 +9,7 @@
 
 <div class="pagebreak"></div>
 
+
 ## 1. Installation
 
 ### 1.1 From the home screen swipe down to display the notifications drawer
@@ -55,6 +56,7 @@
 
 ### 1.14 A message should then display indicating that the application has successfully been installed
 
+
 ## 2. Logging In
 
 ### 2.1 Find and open applications listing from home screen
@@ -81,77 +83,155 @@
 ![screenshot](./images/2/6.jpg)
 <div class="pagebreak"></div>
 
-## 3. Registering a Member
 
-### 3.1 Start from map view (2.6) and tap menu-icon at top-left of screen
+## 3. Using Kandu app Menu to Navigate form data entry
+
+### 3.1 Start from map view( seen in 2.6 ) and tap menu-icon top left of screen
 ![screenshot](./images/map.jpg)
 <div class="pagebreak"></div>
 
-### 3.2 Select *Member Registration* from dropdown menu
+### 3.2 Select applicable category of data forms eg. *Garden Registration* from the dropdown menu
 ![screenshot](./images/menu.jpg)
 <div class="pagebreak"></div>
 
-### 3.3 Select *Member Registration* with the big plus icon from the *Member Registration* sub-menu
-![screenshot](./images/3/5.jpg)
-<div class="pagebreak"></div>
-
-### 3.4 Fill in the member details
+### 3.3 Select specific form with the big plus sign eg. *+Garden Registration* from the main category sub-menu
 ![screenshot](./images/3/3.jpg)
 <div class="pagebreak"></div>
 
-### 3.5 If you have connectivity tap *Save and submit* else tap *Save only*
+### 3.4 Fill in the Form fields( see section 4 for different field usage)
 ![screenshot](./images/3/4.jpg)
 <div class="pagebreak"></div>
 
-### 3.6 Member has been added
+### 3.5 If you have connectivity tap *Save and submit*, this submits the form data to the Kandu remote database. If you have no connectivity tap *save only*, this stores data locally on your device. The locally stored form data can then be submitted when you have a wifi/mobile connection again ( see  section 4 on "How to submit locally saved data to the remote Kandu database" )
 ![screenshot](./images/3/5.jpg)
 <div class="pagebreak"></div>
 
+### 3.6 If you see *submitted* the form data has been submitted to remote database
+![screenshot](./images/3/6.jpg)
+<div class="pagebreak"></div>
 
-## 4. Registering a Garden
+### 3.7 If you see *saved successfully* the form data was saved locally on your device(see section 4 on "How to submit locally saved data to the remote Kandu database" )
+![screenshot](./images/3/7.jpg)
+<div class="pagebreak"></div>
 
-### 4.1 Start from map view (2.6) and tap menu-icon top left of screen
+### 3.8 If you see *server error*, repeat section 3. - The form data has not been submitted nor saved
+![screenshot](./images/3/8.jpg)
+<div class="pagebreak"></div>
+
+
+## 4. How to submit locally saved form data to the remote Kandu database
+
+### 4.1 Start from map view( seen in 2.6 ) and tap settings menu??? at top-right of the screen
 ![screenshot](./images/map.jpg)
 <div class="pagebreak"></div>
 
-### 4.2 Select *Garden Registration* from the dropdown menu
-![screenshot](./images/menu.jpg)
-<div class="pagebreak"></div>
-
-### 4.3 Select *Garden Registration* with the big plus icon from the *Garden Registration* sub-menu
-![screenshot](./images/4/1.jpg)
-<div class="pagebreak"></div>
-
-### 4.3 Fill in the Garden details
+### 4.2 Select *Saved forms*
 ![screenshot](./images/4/2.jpg)
 <div class="pagebreak"></div>
 
-### 4.4 If you have connectivity tap *Save and submit* else tap *Save only*,this stores the member registration locally on your device( see 2.7 on how to submit locally stored member registration forms to Kandu database )
+### 4.3 Select *Submit all* all to submit all of the locally saved forms
 ![screenshot](./images/4/3.jpg)
 <div class="pagebreak"></div>
 
-### 4.5 If you see *server error* check connectivity,if no connection is available tap *save only*
+### 4.4 If no saved forms are visible then all forms has been submitted
 ![screenshot](./images/4/4.jpg)
 <div class="pagebreak"></div>
 
-### 4.6 Garden has been added
-![screenshot](./images/4/5.jpg)
+
+## 5. Different type of data fields and their usage
+
+### 5.1 Text field
+![screenshot](./images/5/text.jpg)
 <div class="pagebreak"></div>
 
-### 4.7 Submit a locally stored member registration form to Kandu database
+### 5.2 AutoLookUp - Text field
+![screenshot](./images/5/auto.jpg)
+<div class="pagebreak"></div>
 
-#### 4.7.1 Start from map view (2.6) and tap menu-icon top right of screen
+### 5.3 Dropdown select single option menu
+![screenshot](./images/5/single.jpg)
+<div class="pagebreak"></div>
+
+### 5.4 Dropdown checkbox menu
+![screenshot](./images/5/checkbox.jpg)
+<div class="pagebreak"></div>
+
+### 5.5 Add photo
+![screenshot](./images/5/photo.jpg)
+<div class="pagebreak"></div>
+
+
+## 6. Using Kandu app Menu to Navigate form data entry
+
+### 6.1 Start from map view( seen in 2.6 ) and tap menu-icon top left of screen
 ![screenshot](./images/map.jpg)
 <div class="pagebreak"></div>
 
-#### 4.7.2 Tap *Saved forms*
-![screenshot](./images/4/6.jpg)
+### 6.2 Select applicable category of data forms eg. *Garden Registration* from the dropdown menu
+![screenshot](./images/menu.jpg)
 <div class="pagebreak"></div>
 
-#### 4.7.3 Tap *Submit all*
-![screenshot](./images/4/7.jpg)
+### 6.3 Select specific form with the big plus sign eg. *Garden Registration* from the main category sub-menu
+![screenshot](./images/6/3.jpg)
 <div class="pagebreak"></div>
 
-#### 4.7.3 If no saved forms remains all forms have been submitted,else try again when you have connectivity
-![screenshot](./images/4/8.jpg)
+### 6.4 Fill in the Form fields( see section 4 for different field usage)
+![screenshot](./images/6/4.jpg)
+<div class="pagebreak"></div>
+
+### 6.5 If you have connectivity tap *Save and submit*, this submits the form data to the Kandu remote database. If you have no connectivity tap *save only*, this stores data locally on your device. The locally stored form data can then be submitted when you have a wifi/mobile connection again ( see  section 4 on "How to submit locally saved data to the remote Kandu database" )
+![screenshot](./images/6/5.jpg)
+<div class="pagebreak"></div>
+
+### 6.6 If you see *submitted* the form data has been submitted to remote database
+![screenshot](./images/6/6.jpg)
+<div class="pagebreak"></div>
+
+### 6.7 If you see *saved successfully* the form data was saved locally on your device(see section 4 on "How to submit locally saved data to the remote Kandu database" )
+![screenshot](./images/6/7.jpg)
+<div class="pagebreak"></div>
+
+### 6.8 If you see *server error*, repeat section 3. - The form data has not been submitted nor saved
+![screenshot](./images/6/8.jpg)
+<div class="pagebreak"></div>
+
+## 7. How to submit locally saved form data to the remote Kandu database
+
+### 7.1 Start from map view( seen in 2.6 ) and tap settings menu??? at top-right of the screen
+![screenshot](./images/map.jpg)
+<div class="pagebreak"></div>
+
+### 7.2 Select *Saved forms*
+![screenshot](./images/7/2.jpg)
+<div class="pagebreak"></div>
+
+### 7.3 Select *Submit all* all to submit all of the locally saved forms
+![screenshot](./images/7/3.jpg)
+<div class="pagebreak"></div>
+
+### 7.4 If no saved forms are visible then all forms has been submitted
+![screenshot](./images/7/4.jpg)
+<div class="pagebreak"></div>
+
+
+## 8. Different type of data fields and their usage
+
+### 8.1 Text field
+![screenshot](./images/8/text.jpg)
+<div class="pagebreak"></div>
+
+### 8.2 AutoLookUp - Text field
+![screenshot](./images/8/auto.jpg)
+<div class="pagebreak"></div>
+
+### 8.3 Dropdown select single option menu
+![screenshot](./images/8/single.jpg)
+<div class="pagebreak"></div>
+
+### 8.4 Dropdown checkbox menu
+![screenshot](./images/8/checkbox.jpg)
+<div class="pagebreak"></div>
+
+### 8.5 Add photo
+![screenshot](./images/8/photo.jpg)
 <div class="pagebreak"></div>
