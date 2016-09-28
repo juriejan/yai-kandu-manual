@@ -4,8 +4,9 @@
 
 1. Installation
 2. Logging In
-3. Registering a Member
-4. Registering a Garden
+3. Using the menu to Navigate form data entry
+4. How to submit locally saved form data to the remote database
+5. Different type of data fields and their usage
 
 <div class="pagebreak"></div>
 
@@ -84,7 +85,7 @@
 <div class="pagebreak"></div>
 
 
-## 3. Using Kandu app Menu to Navigate form data entry
+## 3. Using the menu to Navigate form data entry
 
 ### 3.1 Start from map view (seen in 2.6) and tap menu-icon top left of screen
 ![screenshot](./images/map.jpg)
@@ -119,7 +120,7 @@
 <div class="pagebreak"></div>
 
 
-## 4. How to submit locally saved form data to the remote Kandu database
+## 4. How to submit locally saved form data to the remote database
 
 ### 4.1 Start from map view (seen in 2.6) and tap the more icon at top-right of the screen
 ![screenshot](./images/map.jpg)
