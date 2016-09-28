@@ -61,6 +61,9 @@ function serve(done) {
 
 function publish() {
   let config = require('./aws.json')
+  let headers = {
+    'Cache-Control': 'no-cache'
+  }
   let publisher = awspublish.create({
     region: 'eu-west-1',
     params: {
@@ -71,7 +74,7 @@ function publish() {
   })
   return gulp.src(`${paths.www}/**/*`, {follow: true})
     .pipe(awspublish.gzip())
-    .pipe(publisher.publish())
+    .pipe(publisher.publish(headers))
     .pipe(publisher.sync())
     .pipe(awspublish.reporter())
 }
