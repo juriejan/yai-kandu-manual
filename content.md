@@ -111,11 +111,11 @@
 ![screenshot](./images/3/6.jpg)
 <div class="pagebreak"></div>
 
-### 3.7 If you see *saved successfully* the form data was saved locally on your device(see section 4 on "How to submit locally saved data to the remote Kandu database"
+### 3.7 If you see *saved successfully* the form data was saved locally on your device (see [section 4](#4-how-to-submit-locally-saved-form-data-to-the-remote-database))
 ![screenshot](./images/3/7.jpg)
 <div class="pagebreak"></div>
 
-### 3.8 If you see *server error*, repeat section 3 - The form data has not been submitted nor saved
+### 3.8 If you see *server error*, repeat [section 3](#3-using-the-menu-to-navigate-form-data-entry) - The form data has not been submitted nor saved
 ![screenshot](./images/3/8.jpg)
 <div class="pagebreak"></div>
 
