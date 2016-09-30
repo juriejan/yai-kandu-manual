@@ -1,6 +1,7 @@
 
 const gulp = require('gulp')
 const del = require('del')
+const merge = require('merge-stream')
 
 const awspublish = require('gulp-awspublish')
 const jimp = require('gulp-jimp')
@@ -10,13 +11,14 @@ const markdownPdf = require('gulp-markdown-pdf')
 const rename = require('gulp-rename')
 const wrap = require('gulp-wrap')
 
-
 const paths = {
   content: './content.md',
   assets: './assets',
   images: './assets/images',
   www: './www'
 }
+
+let env = {}
 
 function cleanImages() {
   return del(`${paths.images}/**/*.png`)
@@ -59,21 +61,23 @@ function serve(done) {
   done()
 }
 
-function publish() {
+function publish(bucket) {
+  let path = `${paths.www}/**/*`
+  let apkPath = `${path}.apk`
   let config = require('./aws.json')
   let headers = {
     'Cache-Control': 'no-cache'
   }
+  let gzip = gulp.src([path, `!${apkPath}`], {follow: true})
+    .pipe(awspublish.gzip())
+  let plain = gulp.src(apkPath, {follow: true})
   let publisher = awspublish.create({
     region: 'eu-west-1',
-    params: {
-      Bucket: 'yai.kandu.manual.juriejan.co'
-    },
+    params: {Bucket: env.bucket},
     accessKeyId: config.key,
     secretAccessKey: config.secret
   })
-  return gulp.src(`${paths.www}/**/*`, {follow: true})
-    .pipe(awspublish.gzip())
+  return merge(gzip, plain)
     .pipe(publisher.publish(headers))
     .pipe(publisher.sync())
     .pipe(awspublish.reporter())
@@ -83,6 +87,16 @@ gulp.task('pdf', function () {
   return gulp.src(paths.content)
     .pipe(markdownPdf({cssPath: './print.css'}))
     .pipe(gulp.dest('.'))
+})
+
+gulp.task('qa', (done) => {
+  env.bucket = 'qa.yai.kandu.manual.juriejan.co'
+  done()
+})
+
+gulp.task('prod', (done) => {
+  env.bucket = 'yai.kandu.manual.juriejan.co'
+  done()
 })
 
 gulp.task('format', gulp.series(formatImages, cleanImages))
