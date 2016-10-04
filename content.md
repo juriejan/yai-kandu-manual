@@ -160,3 +160,29 @@
 ### 5.5 Add photo
 ![screenshot](./images/5/photo.jpg)
 <div class="pagebreak"></div>
+
+## 6. How to clear the application cache
+
+### 6.1 Start from home screen and swipe down from top of screen to display this interface
+![screenshot](./images/6/1.jpg)
+<div class="pagebreak"></div>
+
+### 6.2 Swipe down once more to display this swipe-down menu
+![screenshot](./images/6/2.jpg)
+<div class="pagebreak"></div>
+
+### 6.3 Tap *Apps*
+![screenshot](./images/6/3.jpg)
+<div class="pagebreak"></div>
+
+### 6.4 Scroll to Kandu app and tap the Kandu app bar
+![screenshot](./images/6/4.jpg)
+<div class="pagebreak"></div>
+
+### 6.5 Tap *Storage* below the "Uninstall" bar
+![screenshot](./images/6/5.jpg)
+<div class="pagebreak"></div>
+
+### 6.6 Tap the *clear cache* bar
+![screenshot](./images/6/6.jpg)
+<div class="pagebreak"></div>
