@@ -10,53 +10,50 @@
 
 <div class="pagebreak"></div>
 
-
 ## 1. Installation
 
-### 1.1 From the home screen swipe down to display the notifications drawer
-![screenshot](./images/home.jpg)
+### 1.1 Tap [this link](/apks/kandu_2.0.17.apk) to download the application
 <div class="pagebreak"></div>
 
-### 1.2 Tap the top (grey area) of the notifications drawer to expand it
+### 1.2 Wait for the application file to finish downloading
+![screenshot](./images/1/1.jpg)
+<div class="pagebreak"></div>
+
+### 1.3 Ignore the warning in the pop-up window at bottom of the screen and tap *OK*
 ![screenshot](./images/1/2.jpg)
 <div class="pagebreak"></div>
 
-### 1.3 Tap the cog icon to open the device's settings menu
+### 1.4 Tap open on the pop-up bar on the bottom of the screen
 ![screenshot](./images/1/3.jpg)
 <div class="pagebreak"></div>
 
-### 1.4 Tap the security item to open the security settings
-![screenshot](./images/1/4.jpg)
-<div class="pagebreak"></div>
-
-### 1.5 Tap the switch next to the 'Unkown Sources' item to allow the installation of application from sources other than the Play Store
-![screenshot](./images/1/5.jpg)
-<div class="pagebreak"></div>
-
-### 1.6 The switch should turn blue indicating that the 'Unkown Sources' option has been enabled
-![screenshot](./images/1/6.jpg)
-<div class="pagebreak"></div>
-
-### 1.7 Go back to the home screen and open the applications listing by tapping the icon of six blocks contained in a circle
+### 1.5 Go back to the home screen and open the applications listing by tapping the icon of six blocks contained in a circle
 ![screenshot](./images/home.jpg)
 <div class="pagebreak"></div>
 
-### 1.8 Find the *Chrome* application in the list and open it by tapping it's icon
+### 1.6 Tap downloads
+![screenshot](./images/1/4.jpg)
+<div class="pagebreak"></div>
+
+### 1.7 In downloads tap the bar with the *kandu_2.0.17.apk* in it
+![screenshot](./images/1/5.jpg)
+<div class="pagebreak"></div>
+
+### 1.8 In the Kandu pop-up window read through the information and tap install if you agree. Else tap cancel(this would terminate the installation)
+![screenshot](./images/1/6.jpg)
+<div class="pagebreak"></div>
+
+### 1.9 Wait for the installation to complete
+![screenshot](./images/1/7.jpg)
+<div class="pagebreak"></div>
+
+### 1.10 If the app is installed the tap *open* on the bottom-right of the pop-out window
 ![screenshot](./images/1/8.jpg)
 <div class="pagebreak"></div>
 
-### 1.9 Click [this link](/apks/kandu_2.0.17.apk) to download the application
-
-### 1.10 Tap the application file attachment at the bottom of the email to begin downloading the application file and wait for the download to finish
-
-### 1.11 Wait for the application file to finish downloading
-
-### 1.12 Once the download has finished continue with the installation by tapping 'INSTALL'
-
-### 1.13 Wait for the application installation to finish
-
-### 1.14 A message should then display indicating that the application has successfully been installed
-
+### 1.11 You would now see the Kandu application login interface, proceed to section 2.3
+![screenshot](./images/1/9.jpg)
+<div class="pagebreak"></div>
 
 ## 2. Logging In
 
@@ -142,21 +139,36 @@
 ## 5. Different type of data fields and their usage
 
 ### 5.1 Text field
+
+Tap on form field and and type the desired value using the the pop-up keyboard.
+
 ![screenshot](./images/5/text.jpg)
 <div class="pagebreak"></div>
 
-### 5.2 AutoLookUp - Text field
+### 5.2 Auto LookUp
+
+Start completing the form field and select the applicable Auto LookUp item from the list displayed below the text field.
+
 ![screenshot](./images/5/auto.jpg)
 <div class="pagebreak"></div>
 
 ### 5.3 Dropdown select single option menu
+
+Tap on form field and select the applicable item or answer from the dropdown menu below the field. These fields are indicated by a darker triagle on the bottom-right of the form field.
+
 ![screenshot](./images/5/single.jpg)
 <div class="pagebreak"></div>
 
 ### 5.4 Dropdown checkbox menu
+
+Tap on the form field and check multiple items from in the pop-out box. Positively checked items is indicated by a cross in the square on the right-hand side of the pop-out menu item. If the right combination of items have been selected tap *OK*
+
 ![screenshot](./images/5/checkbox.jpg)
 <div class="pagebreak"></div>
 
 ### 5.5 Add photo
 ![screenshot](./images/5/photo.jpg)
+
+Tap on add photo button and select the image to display information that needs to be gathered.
+
 <div class="pagebreak"></div>
