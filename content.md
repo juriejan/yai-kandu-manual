@@ -17,7 +17,7 @@
 ![screenshot](./images/home.jpg)
 <div class="pagebreak"></div>
 
-### 1.2 Tap the top (grey area) of the notifications drawer to expand it
+### 1.2 Swipe down the top (grey area) of the notifications drawer to expand it
 ![screenshot](./images/1/2.jpg)
 <div class="pagebreak"></div>
 
@@ -163,26 +163,26 @@
 
 ## 6. How to clear the application cache
 
-### 6.1 Start from home screen and swipe down from top of screen to display this interface
+### 6.1 Start from home screen and swipe down from top of the screen to display the notification drawer
 ![screenshot](./images/6/1.jpg)
 <div class="pagebreak"></div>
 
-### 6.2 Swipe down once more to display this swipe-down menu
+### 6.2 Swipe down once more to expand this drawer and tap the cog-icon (that looks like a gear), in between the battery life icon and the profile icon
 ![screenshot](./images/6/2.jpg)
 <div class="pagebreak"></div>
 
-### 6.3 Tap *Apps*
+### 6.3 In the Settings menu under the sub-menu *Device* tap *Apps* (situated under *Display* and above *Battery* )
 ![screenshot](./images/6/3.jpg)
 <div class="pagebreak"></div>
 
-### 6.4 Scroll to Kandu app and tap the Kandu app bar
+### 6.4 Scroll to Kandu app and tap the Kandu app list item
 ![screenshot](./images/6/4.jpg)
 <div class="pagebreak"></div>
 
-### 6.5 Tap *Storage* below the "Uninstall" bar
+### 6.5 Tap the *Storage* section in the list below the "Uninstall" button
 ![screenshot](./images/6/5.jpg)
 <div class="pagebreak"></div>
 
-### 6.6 Tap the *clear cache* bar
+### 6.6 Tap the *CLEAR CACHE* button 
 ![screenshot](./images/6/6.jpg)
 <div class="pagebreak"></div>
