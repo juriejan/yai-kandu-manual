@@ -12,47 +12,79 @@
 
 ## 1. Installation
 
-### 1.1 Tap [this link](/apks/kandu_2.0.17.apk) to download the application
-<div class="pagebreak"></div>
-
-### 1.2 Wait for the application file to finish downloading
-![screenshot](./images/1/1.jpg)
-<div class="pagebreak"></div>
-
-### 1.3 Ignore the warning in the pop-up window at bottom of the screen and tap *OK*
-![screenshot](./images/1/2.jpg)
-<div class="pagebreak"></div>
-
-### 1.4 Tap open on the pop-up bar on the bottom of the screen
-![screenshot](./images/1/3.jpg)
-<div class="pagebreak"></div>
-
-### 1.5 Go back to the home screen and open the applications listing by tapping the icon of six blocks contained in a circle
+### 1.1 From the home screen swipe down to display the notifications drawer
 ![screenshot](./images/home.jpg)
 <div class="pagebreak"></div>
 
-### 1.6 Tap downloads
+### 1.2 Tap the top (grey area) of the notifications drawer to expand it
+![screenshot](./images/1/2.jpg)
+<div class="pagebreak"></div>
+
+### 1.3 Tap the cog icon to open the device's settings menu
+![screenshot](./images/1/3.jpg)
+<div class="pagebreak"></div>
+
+### 1.4 Tap the security item to open the security settings
 ![screenshot](./images/1/4.jpg)
 <div class="pagebreak"></div>
 
-### 1.7 In downloads tap the bar with the *kandu_2.0.17.apk* in it
+### 1.5 Tap the switch next to the 'Unkown Sources' item to allow the installation of application from sources other than the Play Store
 ![screenshot](./images/1/5.jpg)
 <div class="pagebreak"></div>
 
-### 1.8 In the Kandu pop-up window read through the information and tap install if you agree. Else tap cancel(this would terminate the installation)
+### 1.6 The switch should turn blue indicating that the 'Unkown Sources' option has been enabled
 ![screenshot](./images/1/6.jpg)
 <div class="pagebreak"></div>
 
-### 1.9 Wait for the installation to complete
-![screenshot](./images/1/7.jpg)
+### 1.7 Go back to the home screen and open the applications listing by tapping the icon of six blocks contained in a circle
+![screenshot](./images/home.jpg)
 <div class="pagebreak"></div>
 
-### 1.10 If the app is installed the tap *open* on the bottom-right of the pop-out window
+### 1.8 Find the *Chrome* application in the list and open it by tapping it's icon
 ![screenshot](./images/1/8.jpg)
 <div class="pagebreak"></div>
 
-### 1.11 You would now see the Kandu application login interface, proceed to section 2.3
-![screenshot](./images/1/9.jpg)
+### 1.9 Tap [this link](/apks/kandu_2.0.17.apk) to download the application
+<div class="pagebreak"></div>
+
+### 1.10 Wait for the application file to finish downloading
+![screenshot](./images/1/10.jpg)
+<div class="pagebreak"></div>
+
+### 1.11 Ignore the warning in the pop-up window at bottom of the screen and tap *OK*
+![screenshot](./images/1/11.jpg)
+<div class="pagebreak"></div>
+
+### 1.12 Tap open on the pop-up bar on the bottom of the screen
+![screenshot](./images/1/12.jpg)
+<div class="pagebreak"></div>
+
+### 1.13 Go back to the home screen and open the applications listing by tapping the icon of six blocks contained in a circle
+![screenshot](./images/home.jpg)
+<div class="pagebreak"></div>
+
+### 1.14 Tap downloads
+![screenshot](./images/1/14.jpg)
+<div class="pagebreak"></div>
+
+### 1.15 In downloads tap the bar with the *kandu_2.0.17.apk* in it
+![screenshot](./images/1/15.jpg)
+<div class="pagebreak"></div>
+
+### 1.16 In the Kandu pop-up window read through the information and tap install if you agree. 
+![screenshot](./images/1/16.jpg)
+<div class="pagebreak"></div>
+
+### 1.17 Wait for the installation to complete
+![screenshot](./images/1/17.jpg)
+<div class="pagebreak"></div>
+
+### 1.18 If the app is installed the tap *open* on the bottom-right of the pop-out window
+![screenshot](./images/1/18.jpg)
+<div class="pagebreak"></div>
+
+### 1.19 You would now see the Kandu application login interface, proceed to section 2.3
+![screenshot](./images/1/19.jpg)
 <div class="pagebreak"></div>
 
 ## 2. Logging In
