@@ -142,21 +142,36 @@
 ## 5. Different type of data fields and their usage
 
 ### 5.1 Text field
+
+Tap on form field and type the desired value using the pop-up keyboard.
+
 ![screenshot](./images/5/text.jpg)
 <div class="pagebreak"></div>
 
-### 5.2 AutoLookUp - Text field
+### 5.2 Auto LookUp
+
+Start completing the form field and select the applicable item from the list displayed below the text field.
+
 ![screenshot](./images/5/auto.jpg)
 <div class="pagebreak"></div>
 
 ### 5.3 Dropdown select single option menu
+
+Tap on form field and select the desired option from the dropdown menu below the field. These fields are indicated by a darker triangle on the bottom-right of the form field.
+
 ![screenshot](./images/5/single.jpg)
 <div class="pagebreak"></div>
 
 ### 5.4 Dropdown checkbox menu
+
+Tap on the form field and check multiple items from in the pop-out box. Positively checked items are indicated by a cross in the square on the right-hand side of the pop-out menu item. If the right combination of items have been selected tap *OK*.
+
 ![screenshot](./images/5/checkbox.jpg)
 <div class="pagebreak"></div>
 
 ### 5.5 Add photo
 ![screenshot](./images/5/photo.jpg)
+
+Tap on add photo button and select the image to display information that needs to be gathered.
+
 <div class="pagebreak"></div>
