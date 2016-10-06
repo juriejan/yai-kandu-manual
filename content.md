@@ -167,22 +167,22 @@
 ![screenshot](./images/6/1.jpg)
 <div class="pagebreak"></div>
 
-### 6.2 Swipe down once more to expand this drawer and tap the cog-icon (that looks like a gear), in between the battery life icon and the profile icon
+### 6.2 Swipe down once more to expand this drawer and tap the settings-icon (gear)
 ![screenshot](./images/6/2.jpg)
 <div class="pagebreak"></div>
 
-### 6.3 In the Settings menu under the sub-menu *Device* tap *Apps* (situated under *Display* and above *Battery* )
+### 6.3 In the *Settings* menu under the sub-menu *Device* tap *Apps*
 ![screenshot](./images/6/3.jpg)
 <div class="pagebreak"></div>
 
-### 6.4 Scroll to Kandu app and tap the Kandu app list item
+### 6.4 Scroll to Kandu and tap the app list item
 ![screenshot](./images/6/4.jpg)
 <div class="pagebreak"></div>
 
-### 6.5 Tap the *Storage* section in the list below the "Uninstall" button
+### 6.5 Tap the *Storage* section in the list
 ![screenshot](./images/6/5.jpg)
 <div class="pagebreak"></div>
 
-### 6.6 Tap the *CLEAR CACHE* button 
+### 6.6 Tap the *CLEAR CACHE* button
 ![screenshot](./images/6/6.jpg)
 <div class="pagebreak"></div>
