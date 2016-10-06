@@ -42,7 +42,7 @@
 ### 1.8 Tap [this link](/apks/kandu_2.0.17.apk) to download the application
 <div class="pagebreak"></div>
 
-### 1.9 Wait for the application file to finish Downloading
+### 1.9 Wait for the application file to finish downloading
 ![screenshot](./images/1/10.jpg)
 <div class="pagebreak"></div>
 
