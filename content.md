@@ -167,7 +167,7 @@
 ![screenshot](./images/6/1.jpg)
 <div class="pagebreak"></div>
 
-### 6.2 Swipe down once more to expand this drawer and tap the settings-icon (gear)
+### 6.2 Swipe down once more to expand this drawer and tap the settings icon (gear)
 ![screenshot](./images/6/2.jpg)
 <div class="pagebreak"></div>
 
