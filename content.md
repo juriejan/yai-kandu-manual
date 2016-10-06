@@ -164,7 +164,7 @@ Tap on form field and select the desired option from the dropdown menu below the
 
 ### 5.4 Dropdown checkbox menu
 
-Tap on the form field and check multiple items from in the pop-out box. Positively checked items is indicated by a cross in the square on the right-hand side of the pop-out menu item. If the right combination of items have been selected tap *OK*.
+Tap on the form field and check multiple items from in the pop-out box. Positively checked items are indicated by a cross in the square on the right-hand side of the pop-out menu item. If the right combination of items have been selected tap *OK*.
 
 ![screenshot](./images/5/checkbox.jpg)
 <div class="pagebreak"></div>
