@@ -7,6 +7,7 @@
 3. [Using the menu to Navigate form data entry](#3-using-the-menu-to-navigate-form-data-entry)
 4. [How to submit locally saved form data to the remote database](#4-how-to-submit-locally-saved-form-data-to-the-remote-database)
 5. [Different type of data fields and their usage](#5-different-type-of-data-fields-and-their-usage)
+6. [Clearing the application cache](#6-clearing-the-application-cache)
 
 <div class="pagebreak"></div>
 
@@ -176,7 +177,7 @@ Tap on add photo button and select the image to display information that needs t
 
 <div class="pagebreak"></div>
 
-## 6. How to clear the application cache
+## 6. Clearing the application cache
 
 ### 6.1 Start from home screen and swipe down from top of the screen to display the notification drawer
 ![screenshot](./images/6/1.jpg)
