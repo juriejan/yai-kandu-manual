@@ -24,7 +24,7 @@
 ![screenshot](./images/1/3.jpg)
 <div class="pagebreak"></div>
 
-### 1.4 Tap the *SECURITY* item to open the security settings
+### 1.4 Tap the *Security* item to open the security settings
 ![screenshot](./images/1/4.jpg)
 <div class="pagebreak"></div>
 
