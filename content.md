@@ -7,6 +7,7 @@
 3. [Using the menu to Navigate form data entry](#3-using-the-menu-to-navigate-form-data-entry)
 4. [How to submit locally saved form data to the remote database](#4-how-to-submit-locally-saved-form-data-to-the-remote-database)
 5. [Different type of data fields and their usage](#5-different-type-of-data-fields-and-their-usage)
+6. [Clearing the application cache](#6-clearing-the-application-cache)
 
 <div class="pagebreak"></div>
 
@@ -16,7 +17,7 @@
 ![screenshot](./images/home.jpg)
 <div class="pagebreak"></div>
 
-### 1.2 Tap the top (grey area) of the notifications drawer to expand it
+### 1.2 Swipe down the top (grey area) of the notifications drawer to expand it
 ![screenshot](./images/1/2.jpg)
 <div class="pagebreak"></div>
 
@@ -167,28 +168,28 @@
 
 ### 5.1 Text field
 
-Tap on form field and and type the desired value using the the pop-up keyboard.
+Tap on form field and type the desired value using the pop-up keyboard.
 
 ![screenshot](./images/5/text.jpg)
 <div class="pagebreak"></div>
 
 ### 5.2 Auto LookUp
 
-Start completing the form field and select the applicable Auto LookUp item from the list displayed below the text field.
+Start completing the form field and select the applicable item from the list displayed below the text field.
 
 ![screenshot](./images/5/auto.jpg)
 <div class="pagebreak"></div>
 
 ### 5.3 Dropdown select single option menu
 
-Tap on form field and select the applicable item or answer from the dropdown menu below the field. These fields are indicated by a darker triagle on the bottom-right of the form field.
+Tap on form field and select the desired option from the dropdown menu below the field. These fields are indicated by a darker triangle on the bottom-right of the form field.
 
 ![screenshot](./images/5/single.jpg)
 <div class="pagebreak"></div>
 
 ### 5.4 Dropdown checkbox menu
 
-Tap on the form field and check multiple items from in the pop-out box. Positively checked items is indicated by a cross in the square on the right-hand side of the pop-out menu item. If the right combination of items have been selected tap *OK*
+Tap on the form field and check multiple items from in the pop-out box. Positively checked items are indicated by a cross in the square on the right-hand side of the pop-out menu item. If the right combination of items have been selected tap *OK*.
 
 ![screenshot](./images/5/checkbox.jpg)
 <div class="pagebreak"></div>
@@ -198,4 +199,30 @@ Tap on the form field and check multiple items from in the pop-out box. Positive
 
 Tap on add photo button and select the image to display information that needs to be gathered.
 
+<div class="pagebreak"></div>
+
+## 6. Clearing the application cache
+
+### 6.1 Start from home screen and swipe down from top of the screen to display the notification drawer
+![screenshot](./images/6/1.jpg)
+<div class="pagebreak"></div>
+
+### 6.2 Swipe down once more to expand this drawer and tap the settings icon (gear)
+![screenshot](./images/6/2.jpg)
+<div class="pagebreak"></div>
+
+### 6.3 In the *Settings* menu under the sub-menu *Device* tap *Apps*
+![screenshot](./images/6/3.jpg)
+<div class="pagebreak"></div>
+
+### 6.4 Scroll to Kandu and tap the app list item
+![screenshot](./images/6/4.jpg)
+<div class="pagebreak"></div>
+
+### 6.5 Tap the *Storage* section in the list
+![screenshot](./images/6/5.jpg)
+<div class="pagebreak"></div>
+
+### 6.6 Tap the *CLEAR CACHE* button
+![screenshot](./images/6/6.jpg)
 <div class="pagebreak"></div>

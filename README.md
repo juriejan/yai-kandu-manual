@@ -17,7 +17,8 @@ gulp format
 
 ## Publishing to AWS (requires aws.json)
 ```
-gulp publish
+gulp qa publish
+gulp prod publish
 ```
 
 ## Publishing to PDF
