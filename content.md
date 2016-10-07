@@ -93,7 +93,7 @@
 ![screenshot](./images/2/2.jpg)
 <div class="pagebreak"></div>
 
-### 2.3 Ensure that the 'Server URL' field is set to 'yai.kandu.co.za'
+### 2.3 Ensure that the 'Server URL' field is set to 'http://uj.kandu/community'
 ![screenshot](./images/2/3.jpg)
 <div class="pagebreak"></div>
 
