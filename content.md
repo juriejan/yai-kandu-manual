@@ -151,16 +151,24 @@
 ![screenshot](./images/map.jpg)
 <div class="pagebreak"></div>
 
-### 4.2 Select *Saved forms*
+### 4.2 Tap 3 squares on top of each other in the top-right of the screen then select *Saved Forms*
 ![screenshot](./images/4/2.jpg)
 <div class="pagebreak"></div>
 
-### 4.3 Select *Submit all* all to submit all of the locally saved forms
+### 4.3 Select the form you want to submit form the list. *NB!!! DO NOT USE SUBMIT ALL, THIS IS CURRENTLY BROKEN.*
 ![screenshot](./images/4/3.jpg)
 <div class="pagebreak"></div>
 
-### 4.4 If no saved forms are visible then all forms have been submitted
+### 4.4 Tap the save icon in the top-right hand of the screen
 ![screenshot](./images/4/4.jpg)
+<div class="pagebreak"></div>
+
+### 4.5 Tap the *Save and Submit*
+![screenshot](./images/4/5.jpg)
+<div class="pagebreak"></div>
+
+### 4.6 Repeat for all items in list. If no saved forms are visible then all forms have been submitted
+![screenshot](./images/4/6.jpg)
 <div class="pagebreak"></div>
 
 
