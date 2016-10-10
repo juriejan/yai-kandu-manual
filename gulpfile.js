@@ -47,7 +47,7 @@ function html() {
   return gulp.src(paths.content)
     .pipe(markdown())
     .pipe(rename('./index.html'))
-    .pipe(wrap('<html><head></head><body><%= contents %></body></head>'))
+    .pipe(wrap('<html><head><link rel="stylesheet" href="print.css"></head><body><%= contents %></body></head>'))
     .pipe(gulp.dest(paths.www))
 }
 
@@ -60,6 +60,11 @@ function serve(done) {
   })
   done()
 }
+
+gulp.task('symlink-libs', function(){
+  return gulp.src('print.css')
+    .pipe(gulp.symlink('www/'))
+})
 
 function publish(bucket) {
   let path = `${paths.www}/**/*`
@@ -102,4 +107,4 @@ gulp.task('prod', (done) => {
 gulp.task('format', gulp.series(formatImages, cleanImages))
 gulp.task('build', gulp.series(html, linkAssets))
 gulp.task('publish', gulp.series('build', publish))
-gulp.task('default', gulp.series(cleanRoot, 'build', serve))
+gulp.task('default', gulp.series(cleanRoot,'symlink-libs', 'build', serve))

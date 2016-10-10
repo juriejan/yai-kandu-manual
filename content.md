@@ -1,4 +1,5 @@
 # YAI Kandu Manual
+![screenshot](./images/kandu.jpg)
 
 ## Table of contents
 
