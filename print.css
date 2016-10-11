@@ -23,40 +23,45 @@ h1 {
   width : 100%;
   padding: 20px;
   margin: none;
+  margin-bottom: 60px;
   background-color: #902F5A;
   color: #9DB23B;
   box-shadow: 0px 5px 5px grey;
 }
 
 h2 {
-  padding-top: 20px;
-  padding-left: 20px;
+  padding-top: 80px;
+  padding-left: 60px;
   color: #902F5A;
 }
 
 h3 {
   padding-top: 50px;
-  padding-left: 30px;
+  padding-left: 80px;
   padding-bottom: 10px;
 }
 
 p {
-  padding-left: 30px;
+  padding-left: 80px;
   width: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-em {
-  color: #902F5A;
-}
-
 a {
-  color: black;
+  color: #902F5A;
   text-decoration: none;
 }
 
 a:hover {
+  color: blue;
+}
+
+em {
   color: #902F5A;
+}
+
+li {
+  margin-left: 80px;
 }
