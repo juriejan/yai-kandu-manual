@@ -8,6 +8,7 @@
 4. [How to submit locally saved form data to the remote database](#4-how-to-submit-locally-saved-form-data-to-the-remote-database)
 5. [Different type of data fields and their usage](#5-different-type-of-data-fields-and-their-usage)
 6. [Clearing the application cache](#6-clearing-the-application-cache)
+7. [How to back-up data to google drive](#7-how-to-back-up-data-to-google-drive)
 
 <div class="pagebreak"></div>
 
@@ -235,4 +236,30 @@ Tap on add photo button and select the image to display information that needs t
 
 ### 6.6 Tap the *CLEAR CACHE* button
 ![screenshot](./images/6/6.jpg)
+<div class="pagebreak"></div>
+
+## 7 How to back-up data to google drive
+
+### 7.1 Start from map view and tap the more icon at top-right of the screen
+![screenshot](./images/map.jpg)
+<div class="pagebreak"></div>
+
+### 7.2 Tap menu icon in the top-right of the screen then select *Saved Forms*
+![screenshot](./images/7/2.jpg)
+<div class="pagebreak"></div>
+
+### 7.3 Tap *BACKUP* in the top-right of the screen
+![screenshot](./images/7/3.jpg)
+<div class="pagebreak"></div>
+
+### 7.4 Tap *Save to drive* in the pop-up menu on the bottom of the screen
+![screenshot](./images/7/4.jpg)
+<div class="pagebreak"></div>
+
+### 7.5 Give a *Document title*, select an *Account* (Gmail) and *Folder* and select save in the bottom-right of the pop-up menu.
+![screenshot](./images/7/5.jpg)
+<div class="pagebreak"></div>
+
+### 7.6 If you have successfully uploaded data message at the bottom of the screen should display *Your X file is being updoaded to: My Drive*
+![screenshot](./images/7/6.jpg)
 <div class="pagebreak"></div>
