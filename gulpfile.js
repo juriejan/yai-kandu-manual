@@ -7,7 +7,6 @@ const awspublish = require('gulp-awspublish')
 const jimp = require('gulp-jimp')
 const liveServer = require('gulp-live-server')
 const markdown = require('gulp-markdown')
-const markdownPdf = require('gulp-markdown-pdf')
 const rename = require('gulp-rename')
 const wrap = require('gulp-wrap')
 
@@ -82,12 +81,6 @@ function publish(bucket) {
     .pipe(publisher.sync())
     .pipe(awspublish.reporter())
 }
-
-gulp.task('pdf', function () {
-  return gulp.src(paths.content)
-    .pipe(markdownPdf({cssPath: './print.css'}))
-    .pipe(gulp.dest('.'))
-})
 
 gulp.task('qa', (done) => {
   env.bucket = 'qa.yai.kandu.manual.juriejan.co'
