@@ -9,6 +9,7 @@
 5. [Different type of data fields and their usage](#5-different-type-of-data-fields-and-their-usage)
 6. [Clearing the application cache](#6-clearing-the-application-cache)
 7. [How to back-up data to google drive](#7-how-to-back-up-data-to-google-drive)
+7. [How to switch on GPS on your device](#8-how-to-switch-on-GPS-on-your-device)
 
 <div class="pagebreak"></div>
 
@@ -112,6 +113,8 @@
 
 
 ## 3. Using the menu to Navigate form data entry
+
+*Note: Ensure that the GPS on your device is enabled before entering and saving a form, see section 8 on "How to switch on GPS on your device"*
 
 ### 3.1 Start from map view (seen in 2.6) and tap menu-icon top left of screen
 ![screenshot](./images/map.jpg)
@@ -262,4 +265,26 @@ Tap on add photo button and select the image to display information that needs t
 
 ### 7.6 a Message should display informing you of the successful upload of the data
 ![screenshot](./images/7/6.jpg)
+<div class="pagebreak"></div>
+
+## 8. How to switch on GPS on your device
+
+### 8.1 Start from home screen and swipe down from top of the screen to display the notification drawer
+![screenshot](./images/8/1.jpg)
+<div class="pagebreak"></div>
+
+### 8.2 Swipe down once more to expand this drawer and tap the settings icon (gear)
+![screenshot](./images/8/2.jpg)
+<div class="pagebreak"></div>
+
+### 8.3 In the *Settings* menu under the sub-menu *Personal* tap *Location*
+![screenshot](./images/8/3.jpg)
+<div class="pagebreak"></div>
+
+### 8.4 Tap the toggle bar in the top of the screen to make sure the GPS in *On*, the toggle button should display in green, NOT grey and NOT say *off*. Tap *Mode* in the top-left hand of the screen below the toggle bar
+![screenshot](./images/8/4.jpg)
+<div class="pagebreak"></div>
+
+### 8.5 Tap *High accuracy*, your GPS is now enabled and working on it's optimal functionality
+![screenshot](./images/8/5.jpg)
 <div class="pagebreak"></div>
