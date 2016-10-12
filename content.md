@@ -256,10 +256,10 @@ Tap on add photo button and select the image to display information that needs t
 ![screenshot](./images/7/4.jpg)
 <div class="pagebreak"></div>
 
-### 7.5 Give a *Document title*, select an *Account* (Gmail) and *Folder* and select save in the bottom-right of the pop-up menu.
+### 7.5 Give a *Document title*, select an *Account* (Goolge) and *Folder* and select save in the bottom-right of the pop-up menu
 ![screenshot](./images/7/5.jpg)
 <div class="pagebreak"></div>
 
-### 7.6 If you have successfully uploaded data message at the bottom of the screen should display *Your X file is being updoaded to: My Drive*
+### 7.6 a Message should display informing you of the successful upload of the data
 ![screenshot](./images/7/6.jpg)
 <div class="pagebreak"></div>
