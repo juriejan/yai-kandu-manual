@@ -281,10 +281,14 @@ Tap on add photo button and select the image to display information that needs t
 ![screenshot](./images/8/3.jpg)
 <div class="pagebreak"></div>
 
-### 8.4 Tap the toggle bar in the top of the screen to make sure the GPS in *On*, the toggle button should display in green, NOT grey and NOT say *off*. Tap *Mode* in the top-left hand of the screen below the toggle bar
+### 8.4 Tap the toggle bar in the top of the screen to make sure the GPS in *On*, the toggle button should display in green, NOT grey and NOT say *off*(see 8.5)
 ![screenshot](./images/8/4.jpg)
 <div class="pagebreak"></div>
 
-### 8.5 Tap *High accuracy*, your GPS is now enabled and working on it's optimal functionality
+### 8.5 Tap *Mode* in the top-left hand of the screen below the toggle bar
 ![screenshot](./images/8/5.jpg)
+<div class="pagebreak"></div>
+
+### 8.6 Tap *High accuracy* to ensure that most accurate methods are used to calculate location
+![screenshot](./images/8/6.jpg)
 <div class="pagebreak"></div>
