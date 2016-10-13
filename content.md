@@ -256,7 +256,7 @@ Tap on add photo button and select the image to display information that needs t
 ![screenshot](./images/7/4.jpg)
 <div class="pagebreak"></div>
 
-### 7.5 Give a *Document title*, select an *Account* (Goolge) and *Folder* and select *save* in the bottom-right of the pop-up menu
+### 7.5 Give a *Document title*, select an *Account* (Goolge) and *Folder* and select *SAVE* in the bottom-right of the pop-up menu
 ![screenshot](./images/7/5.jpg)
 <div class="pagebreak"></div>
 
