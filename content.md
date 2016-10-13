@@ -9,7 +9,7 @@
 5. [Different type of data fields and their usage](#5-different-type-of-data-fields-and-their-usage)
 6. [Clearing the application cache](#6-clearing-the-application-cache)
 7. [How to back-up data to google drive](#7-how-to-back-up-data-to-google-drive)
-7. [How to switch on GPS on your device](#8-how-to-switch-on-GPS-on-your-device)
+8. [How to switch on GPS on your device](#8-how-to-switch-on-gps-on-your-device)
 
 <div class="pagebreak"></div>
 
