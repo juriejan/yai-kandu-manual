@@ -189,7 +189,7 @@ Tap on form field and type the desired value using the pop-up keyboard.
 
 ### 5.2 Auto LookUp
 
-Start completing the form field and select the applicable item from the list displayed below the text field.
+Start filling in the first 3 letters of the title of the item (eg. Member, Garden, etc.) that you would like to reference in the form field. Select the relevant item from the list displayed below the text field. If the desired item (eg. Member, Garden, etc.) does not appear in the list below the text field it has not been submitted to the Kandu database or saved locally.
 
 ![screenshot](./images/5/auto.jpg)
 <div class="pagebreak"></div>
